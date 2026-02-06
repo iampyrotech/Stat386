@@ -1,6 +1,6 @@
 # About Me
 
-![Chase Nielsen headshot](link "Photo of Chase Nielsen")  
+<img src="IMG_2713.JPG" alt="Chase Nielsen headshot" width="180">
 
 ## Introduction
 Hi, I'm **Chase Nielsen** — an Applied Statistics & Analytics student at BYU with a focus on **quantitative finance, data science, and investment research**.  
