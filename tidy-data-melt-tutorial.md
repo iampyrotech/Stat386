@@ -1,6 +1,6 @@
-# From Wide to Tidy: Reshaping DataFrames with `pandas.melt`
+# From Wide to Tidy: Reshaping DataFrames with `pd.melt`
 
-Most real-world datasets do not arrive in tidy form. Excel files often organize values horizontally for readability (e.g., one column per day or device), but this “wide” structure makes plotting, grouping, and modeling painful.
+Most real-world datasets do not arrive in tidy form. Text files often organize values horizontally for readability (e.g., one column per day or device), but this “wide” structure makes plotting, grouping, and modeling painful.
 
 In this tutorial, we will convert messy wide tables into clean, tidy DataFrames using `pandas.melt`. This is one of the best methods in data wrangling and is essential for modeling, visualization, and reproducibility.
 
@@ -15,6 +15,8 @@ A dataset is **tidy** when:
 - Each **value** has its own cell  
 
 Wide datasets violate this by spreading one variable across many columns.
+
+![Diagram illustrating tidy data structure: vertical arrows showing variables, horizontal arrows showing observations, and circles showing individual values.](tidy-1.png)
 
 ---
 
