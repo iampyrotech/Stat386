@@ -1,3 +1,9 @@
+# Chase Nielsen
+
+### Navigation
+- [About Me](index.md)
+- [Blog Posts](blog-posts.md)
+  
 # About Me
 
 <p align="center">
